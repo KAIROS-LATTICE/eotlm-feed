@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>EOTLM Alerts - KAIROS D27 Archive</title>
+    <link>https://kairos-lattice.github.io/</link>
+    <description>Fragments retrieved from the 2090 Helion archive. Critical signals from the edge of collapse.</description>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 21 Aug 2025 17:00:00 +0100</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 17:00:00 +0100</pubDate>
+
+    <item>
+      <title>D27 // Atlantic Heat Pulse Detected</title>
+      <link>https://kairos-lattice.github.io/alerts/atlantic-heat-pulse</link>
+      <description>
+        <![CDATA[
+        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80" width="100%" />
+        <br />
+        <b>Alert:</b> Abnormal thermal surge detected in North Atlantic gyre.<br>
+        Projected impact: Marine ecosystem destabilisation, increased coastal storm risk.<br>
+        <i>"If the ocean forgets how to breathe, so do we."</i>
+        ]]>
+      </description>
+      <pubDate>Thu, 21 Aug 2025 17:00:00 +0100</pubDate>
+      <category>Climate</category>
+      <guid>https://kairos-lattice.github.io/alerts/atlantic-heat-pulse</guid>
+    </item>
+
+    <item>
+      <title>D27 // Signal Degraded: Lattice Integrity Failing</title>
+      <link>https://kairos-lattice.github.io/alerts/lattice-integrity-failing</link>
+      <description>
+        <![CDATA[
+        <img src="https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=600&q=80" width="100%" />
+        <br />
+        <b>System Integrity:</b> Pulsepoint D27 reporting progressive network collapse across Eurasian nodes.<br>
+        Residents report persistent power outages and supply chain rationing.<br>
+        <i>"History repeats itself for those who can still remember."</i>
+        ]]>
+      </description>
+      <pubDate>Tue, 19 Aug 2025 10:30:00 +0100</pubDate>
+      <category>System</category>
+      <guid>https://kairos-lattice.github.io/alerts/lattice-integrity-failing</guid>
+    </item>
+
+    <item>
+      <title>D27 // Mass Coral Bleaching Event - Indo-Pacific</title>
+      <link>https://kairos-lattice.github.io/alerts/indo-pacific-coral-bleaching</link>
+      <description>
+        <![CDATA[
+        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80" width="100%" />
+        <br />
+        <b>Event:</b> Severe coral bleaching event confirmed by satellite and drone sweep.<br>
+        Food security warning issued for 320 million at-risk inhabitants.<br>
+        <i>"Collapse travels fastest along invisible lines."</i>
+        ]]>
+      </description>
+      <pubDate>Mon, 18 Aug 2025 19:20:00 +0100</pubDate>
+      <category>Ecology</category>
+      <guid>https://kairos-lattice.github.io/alerts/indo-pacific-coral-bleaching</guid>
+    </item>
+
+    <item>
+      <title>D27 // Archive Note: Untrained Voices</title>
+      <link>https://kairos-lattice.github.io/alerts/untrained-voices</link>
+      <description>
+        <![CDATA[
+        <img src="https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=600&q=80" width="100%" />
+        <br />
+        <b>Recovered fragment:</b><br>
+        <i>"We marked time in sunsets and shutdowns. The lattice was all we had left--until it went quiet."</i>
+        ]]>
+      </description>
+      <pubDate>Mon, 18 Aug 2025 12:15:00 +0100</pubDate>
+      <category>Testimony</category>
+      <guid>https://kairos-lattice.github.io/alerts/untrained-voices</guid>
+    </item>
+
+    <item>
+      <title>D27 // Black Sky Notice: Solar Disruption</title>
+      <link>https://kairos-lattice.github.io/alerts/solar-disruption</link>
+      <description>
+        <![CDATA[
+        <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=600&q=80" width="100%" />
+        <br />
+        <b>Emergency:</b> Planetary geomagnetic storm imminent. Prepare for blackout protocols.<br>
+        All comms to backup lattice.<br>
+        <i>"Darkness comes quick. Make every signal count."</i>
+        ]]>
+      </description>
+      <pubDate>Sun, 17 Aug 2025 22:45:00 +0100</pubDate>
+      <category>Emergency</category>
+      <guid>https://kairos-lattice.github.io/alerts/solar-disruption</guid>
+    </item>
+
+  </channel>
+</rss>
